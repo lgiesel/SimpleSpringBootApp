@@ -1,0 +1,1 @@
+Use this as a simple template for creating Spring Boot applications
